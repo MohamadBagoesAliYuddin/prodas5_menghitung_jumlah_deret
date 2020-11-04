@@ -1,0 +1,2 @@
+# prodas5_menghitung_jumlah_deret
+Mohamad Bagoes Ali Yuddin_20051397048_2020B
